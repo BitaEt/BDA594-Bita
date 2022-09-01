@@ -1,6 +1,6 @@
 # BDA594-Bita
-1. First Name: Bita
-  Last Name: Etaati
+1. - First Name: Bita
+  - Last Name: Etaati
 
 2. [Link to BDA594](https://sdsu.instructure.com/courses/113151)
 
